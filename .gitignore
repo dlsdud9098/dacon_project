@@ -181,10 +181,12 @@ malicious_url_project/data/
 obfuscation_korean_project/data/
 icon_classifier_project/data/
 
+
 # 모델 폴더 제외
 malicious_url_project/AutogluonModels
 malicious_url_project/model
 malicious_url_project/prediction
+icon_classifier_project/models
 
 # 결과물 파일 제외
 **/submission.csv
