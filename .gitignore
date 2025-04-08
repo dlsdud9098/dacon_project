@@ -180,6 +180,7 @@ euclidean_distance_project/data/
 malicious_url_project/data/
 obfuscation_korean_project/data/
 icon_classifier_project/data/
+card_customer_segment/data/
 
 
 # 모델 폴더 제외
