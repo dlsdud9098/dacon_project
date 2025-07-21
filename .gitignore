@@ -191,3 +191,6 @@ icon_classifier_project/models/
 
 # 결과물 파일 제외
 **/submission.csv
+
+./*/*/data
+./*/datas
