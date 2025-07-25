@@ -1,5 +1,5 @@
 def main():
-    print("Hello from cyber-attack-type!")
+    print("Hello from dacon-basic-stress!")
 
 
 if __name__ == "__main__":
